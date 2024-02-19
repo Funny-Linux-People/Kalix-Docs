@@ -1,1 +1,1 @@
-# Kalix-Docs
+# Kalyx-Docs
